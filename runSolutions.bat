@@ -1,0 +1,1 @@
+python day01_calorieCounting.py <input_day01.txt
