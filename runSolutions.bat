@@ -10,5 +10,8 @@ rem python day03_rucksackReorganization_02.py <input_day03.txt
 rem python day04_campCleanup_01.py <input_day04.txt
 rem python day04_campCleanup_02.py <input_day04.txt
 
-python day05_supplyStacks_01.py <input_day05.txt
-python day05_supplyStacks_02.py <input_day05.txt
+rem python day05_supplyStacks_01.py <input_day05.txt
+rem python day05_supplyStacks_02.py <input_day05.txt
+
+python day06_01.py <input_day06.txt
+python day06_02.py <input_day06.txt
