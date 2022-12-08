@@ -19,4 +19,5 @@ rem python day06_02.py <input_day06.txt
 rem python day07_02.py <input_day07.txt
 rem python day07_02.py <input_day07.txt
 
-python day08_01.py <input_day08.txt
+rem python day08_01.py <input_day08.txt
+python day08_02.py <input_day08.txt
