@@ -22,5 +22,9 @@ rem python day07_02.py <input_day07.txt
 rem python day08_01.py <input_day08.txt
 rem python day08_02.py <input_day08.txt
 
-python day09_01.py <input_day09.txt
-python day09_02.py <input_day09.txt
+rem python day09_01.py <input_day09.txt
+rem python day09_02.py <input_day09.txt
+
+cd day11_monkey_in_the_middle
+cargo run < ../input_day11.txt
+cd ..
